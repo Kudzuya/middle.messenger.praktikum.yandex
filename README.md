@@ -8,3 +8,7 @@ npm run start — сборка и запуск,
 npm run dev — для запуска в режиме разработки,
 npm run lint — для запуска проверки eslint,
 npm run stylelint — для запуска проверки stylelint.
+
+
+Ссылка на фигму
+https://www.figma.com/file/gYcAthRFzBiG3uHuRB9hqe/Untitled?type=design&node-id=0-1&mode=design
