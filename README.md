@@ -14,10 +14,10 @@ npm install — установка зависимостей, <br>npm run start �
 
 Превью в Netlify
 =================
-[главная страница](https://messageme-pr.netlify.app/)
-[login](https://messageme-pr.netlify.app/)
-[sign up](https://messageme-pr.netlify.app/)
-[chats](https://messageme-pr.netlify.app/?login=&password=)
-[account](https://messageme-pr.netlify.app/?login=&password=)
-[404](https://messageme-pr.netlify.app/?login=&password=)
+[главная страница](https://messageme-pr.netlify.app/)<br>
+[login](https://messageme-pr.netlify.app/)<br>
+[sign up](https://messageme-pr.netlify.app/)<br>
+[chats](https://messageme-pr.netlify.app/?login=&password=)<br>
+[account](https://messageme-pr.netlify.app/?login=&password=)<br>
+[404](https://messageme-pr.netlify.app/?login=&password=)<br>
 [500](https://messageme-pr.netlify.app/?login=&password=)
