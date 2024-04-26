@@ -12,7 +12,8 @@ MessageME
 Запуск проекта
 =================
 
-npm install — установка зависимостей, <br>npm run start — сборка и запуск, <br>npm run dev — для запуска в режиме разработки
+npm install — установка зависимостей, <br>npm run start — сборка и запуск, <br>npm run dev — для запуска в режиме разработки<br>
+Отройте ваш браузер и перейдите на http://localhost:3000.
 
 <br>Ссылка на [фигму](https://www.figma.com/file/gYcAthRFzBiG3uHuRB9hqe/Untitled?type=design&node-id=0-1&mode=design)
 
